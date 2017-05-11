@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="hui">#516574</color>
+    <color name="black">#010101</color>
+    //内容字体颜色
+    <color name="font">#3e3e3e</color>
+
+    <!--Status bar color-->
+    <color name="red">#ff0000</color>
+    <!-- toolBar color -->
+    <color name="blue">#0cc5ef</color>
+    <!--EditText,RadioButton,CheckBox color-->
+    <color name="pink">#FD87A9</color>
+    <color name="main_line">#a5a5a5</color>
+    <color name="background">#eaeaea</color>
+    <color name="orange">#ff6600</color>
+    <color name="edit_stork">#b8b8b8</color>
+    <color name="edit_hdit">#9b9b9b</color>
+    <!--toolbar背景色-->
+    <color name="toolbar_background">#393e51</color>
+    <!--车源信息彩色-->
+    <color name="car_colour">#ed6f70</color>
+    <!--货物信息彩色-->
+    <color name="goods_colour">#efb051</color>
+    <!--买家信息彩色-->
+    <color name="buyers_colour">#8fbb6e</color>
+    <!--卖家信息彩色-->
+    <color name="sellers_colour">#00a0e9</color>
+    <!--灰色字体-->
+    <color name="unselector_font">#a0a0a0</color>
+    <!--listView上方灰条-->
+    <color name="gray_bar">#d2d2d2</color>
+    <!--灰条描边-->
+    <color name="gray_bar_line">#c2c2c2</color>
+    <!--灰条中字体颜色-->
+    <color name="gray_bar_font">#272636</color>
+    <color name="set_color">#d0d0d0</color>
+    <!--mainActivity下面的字-->
+    <color name="mainactivity_rb_font">#00a1e9</color>
+
+
+</resources>

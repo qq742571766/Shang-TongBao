@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:toolbar="http://schemas.android.com/apk/res-auto"
+    tools:context="com.zhonghong.hlbelogistics.core.home.Activitys.Buyers_details_Activity"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/carsource_details_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y132"
+        android:background="@color/toolbar_background"
+        toolbar:title="">
+        <!--添加Toolbar的子控件-->
+        <ImageView
+            android:id="@+id/carSource_details_Activity_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="@dimen/x10"
+            android:paddingTop="@dimen/y10"
+            android:paddingBottom="@dimen/y10"
+            android:src="@drawable/back" />
+        <TextView
+            android:id="@+id/exception_report_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:text="@string/carSource_toobar_textview"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </android.support.v7.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/sellers_details_vp"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/y505">
+
+                </android.support.v4.view.ViewPager>
+                <LinearLayout
+                    android:id="@+id/rec_liner"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:paddingBottom="@dimen/y40"
+                    android:layout_marginRight="@dimen/x45"
+                    >
+                </LinearLayout>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="车源详情"
+                android:textColor="@color/blue"
+                android:textSize="20sp"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">商通宝司机版</string>
+    <!--首页所需字段-->
+    <string name="planCenterStr">待接取</string>
+    <string name="taskCenterStr">进行中</string>
+    <string name="infoShow">信息展示</string>
+    <string name="set">设置</string>
+    <!--activity_bind_bank_.xml所需字段-->
+    <string name="main_toobar_textview">绑定银行卡</string>
+    <string name="prompt_tv">请填写您本人的银行卡信息</string>
+    <string name="bank_number">银行卡号：</string>
+    <string name="name">姓名：</string>
+    <string name="id_card">银行卡号：</string>
+    <string name="phone_number">手机号：</string>
+    <string name="button_tv">确定</string>
+    <!--activity_buyers_details_.xml所需字段-->
+    <string name="buyers_toobar_textview">买家详细信息</string>
+    <string name="guadan_title">挂单标题：</string>
+    <string name="price_type">价格类型：</string>
+    <string name="offer">报价（元/吨）：</string>
+    <string name="guadan_total">挂单总量（吨）：</string>
+    <string name="aleady_deal">已成交量：</string>
+    <string name="ralease_time">发布时间：</string>
+    <string name="type">品类：</string>
+    <string name="packing_type">包装类型：</string>
+    <string name="origin">产地：</string>
+    <string name="year">年份：</string>
+    <string name="guadan_remarks">挂单备注：</string>
+    <string name="quality">品质属性：</string>
+    <string name="min">最小交易量（吨）：</string>
+    <string name="duanyizhuang">短溢装（%）：</string>
+    <string name="transaction_start">交易开始：：</string>
+    <string name="transaction_end">交易结束：</string>
+    <string name="warehouse">交收仓库：</string>
+    <string name="inventory_place">库存地：</string>
+    <!--activity_sellers_details_.xml所需字段-->
+    <string name="sellers_toobar_textview">卖家详细信息</string>
+    <string name="number_check_type">数量验收方式：</string>
+    <string name="quality_check_type">质量验收方式：</string>
+    <string name="vat_invoice_type">增值税发票类型：</string>
+    <!--activity_car_source_details_.xml所需字段-->
+    <string name="carSource_toobar_textview">车源详细信息</string>
+    <!--activity_goods_details_.xml所需字段-->
+    <string name="goods_toobar_textview">货源详细信息</string>
+    <!--fragment_infoshow所需字段 Creaded By lize-->
+    <string name="buyer_info">买家信息</string>
+    <string name="seller_info">卖家信息</string>
+    <string name="goods_info">货物信息</string>
+    <string name="carsouces_info">车源信息</string>
+    <!--Exception Report Created by lize-->
+    <string name="exception_write">写明异常情况</string>
+    <!--fragment_buyerinfo所需字段 Created by lize-->
+    <string name="sort">排序</string>
+    <string name="number_title">数量</string>
+    <string name="price_title">价格</string>
+
+    <!--fragment_goodsinfo 所需字段 Created by lize-->
+    <string name="goodsinfo_title">货物信息</string>
+
+    <!--fragment_car_sources 所需字段 Created by lize-->
+    <string name="car_sources_title">车源信息</string>
+    <string name="forget_pwd_title">输入账号</string>
+    <!--infoshow_goods_item 所需字段 Created by lize-->
+    <string name="goodssources_name">货源名称：</string>
+    <string name="from">出发地：</string>
+    <string name="to">出发地：</string>
+    <string name="car_type">所需车型：</string>
+    <string name="goods_weight">货重（吨）：</string>
+    <string name="volume">体积(立方米)：</string>
+
+    <!--infoshow_carsource_item 所需字段类型 Created by lize-->
+    <string name="car_srouces_name">车源名称：</string>
+    <string name="car_length">车长：</string>
+    <string name="volume_name">体积：</string>
+    <string name="offer_sum">报单总量（吨）：</string>
+    <string name="phone_num">手机号</string>
+    <string name="please_phone_num">请输入用户名</string>
+    <string name="username">用户名</string>
+    <string name="yzm">验证码</string>
+    <string name="please_new_pwd">请输入新密码</string>
+    <string name="please_again_new_pwd">请再次输入新密码</string>
+    <string name="please_yzm">请输入验证码</string>
+    <string name="get_yzm">获取验证码</string>
+    <string name="confirm_pwd">确定</string>
+    <string name="password">密码</string>
+    <string name="regist">注册</string>
+    <string name="login">登录</string>
+    <string name="forget_pwd">忘记密码？</string>
+    <string name="zh_admin">账户管理</string>
+    <string name="bind_bank">绑定银行卡</string>
+    <string name="modify_pwd">修改密码</string>
+    <string name="expocatin_report">异常上报</string>
+    <string name="version_info">版本信息</string>
+    <string name="cancelandback">退出</string>
+    <!--fragment_plancenter.xml所需字段-->
+    <string name="plancenter_textview"></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account_toolbar">个人中心</string>
+</resources>

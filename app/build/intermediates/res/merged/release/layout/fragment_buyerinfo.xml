@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View style="@style/bg_line"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/y112"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/y110"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="@color/gray_bar_font"
+        android:background="@color/gray_bar"
+        android:textSize="15sp"
+        android:text="@string/sort"/>
+    <View style="@style/vertacil_line"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/gray_bar"
+        android:gravity="center"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/gray_bar_font"
+            android:textSize="15sp"
+            android:text="@string/number_title"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/desc"/>
+
+    </LinearLayout>
+    <View style="@style/vertacil_line"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/gray_bar"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/gray_bar_font"
+            android:textSize="15sp"
+            android:text="@string/price_title"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/desc"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+<com.zhonghong.hlbelogistics.ui.PullToRefreshListView
+    android:id="@+id/pull_refresh_listView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</com.zhonghong.hlbelogistics.ui.PullToRefreshListView>
+</LinearLayout>

@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\peant_big.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\peant_big.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sellers_selector.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\sellers_selector.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\set.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\set.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mark.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\mark.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\blue_divider.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\blue_divider.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_view.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\button_view.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\goods_unselector.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\goods_unselector.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\buyers.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\buyers.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\goods.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\goods.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\peant.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\peant.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\carsource.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\carsource.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\one_viewpager.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\one_viewpager.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\buyers_unselector.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\buyers_unselector.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sellers.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\sellers.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\carsource.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\carsource.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\waitpickup.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\waitpickup.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\infoshowselected.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\infoshowselected.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pickup.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\pickup.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\smalllogo.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\smalllogo.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setselected.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\setselected.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\default_ptr_rotate.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\one_viewpager.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\one_viewpager.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\set.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\set.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mark.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\mark.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\infoshowselected.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\infoshowselected.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\unreadypickup.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\unreadypickup.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_view.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\button_view.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\two_viewpager.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\two_viewpager.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\asc.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\asc.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\goods_unselector.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\goods_unselector.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mapbtn.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\mapbtn.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\head.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\head.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sellers_selector.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\sellers_selector.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_v.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\button_v.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\peant_big.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\peant_big.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\xsearch_msg_pull_arrow_down.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\xsearch_msg_pull_arrow_down.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\goods.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\goods.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\head.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\head.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dot_selected.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\dot_selected.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\buyers.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\buyers.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\xsearch_loading.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\xsearch_loading.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\desc.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\desc.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dot_selected.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\dot_selected.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\unwaitpickup.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\unwaitpickup.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\infoshow.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\infoshow.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\unreadypickup.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\unreadypickup.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dot.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\dot.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\xsearch_msg_pull_arrow_down.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\xsearch_msg_pull_arrow_down.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bank_logo.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\bank_logo.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\unwaitpickup.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\unwaitpickup.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\prompt.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\prompt.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\leftarrow.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\leftarrow.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\asc.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\asc.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\waitpickup.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\waitpickup.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\desc.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\desc.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_v.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\button_v.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\three_viewpager.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\three_viewpager.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\infoshow.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\infoshow.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bank_logo.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\bank_logo.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mapbtn.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\mapbtn.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\xsearch_loading.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\xsearch_loading.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\peant.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\peant.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\list.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\smalllogo.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\smalllogo.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setselected.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\setselected.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\carsource_unselector.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\carsource_unselector.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\readypickup.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\readypickup.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refuse.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\refuse.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\carsource_unselector.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\carsource_unselector.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pickup.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\pickup.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refuse.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\refuse.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\default_ptr_rotate.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sellers.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\sellers.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\two_viewpager.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\two_viewpager.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\buyers_unselector.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\buyers_unselector.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\list.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\blue_divider.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\blue_divider.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loact.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\loact.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\three_viewpager.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\three_viewpager.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loact.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\loact.png"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\readypickup.png",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\readypickup.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\prompt.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\prompt.png"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dot.png",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\drawable-mdpi\\dot.png"
+    }
+]

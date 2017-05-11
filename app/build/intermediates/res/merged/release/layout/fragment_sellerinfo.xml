@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y112"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textColor="@color/gray_bar_font"
+            android:background="@color/gray_bar"
+            android:textSize="15sp"
+            android:text="排序"/>
+        <View style="@style/vertacil_line"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/gray_bar"
+            android:gravity="center"
+            android:layout_weight="1">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_bar_font"
+                android:textSize="15sp"
+                android:text="数量"/>
+            <ImageView
+                android:id="@+id/num_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/desc"/>
+        </LinearLayout>
+        <View style="@style/vertacil_line"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/gray_bar"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_bar_font"
+                android:textSize="15sp"
+                android:text="价格"/>
+            <ImageView
+                android:id="@+id/price_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/desc"/>
+        </LinearLayout>
+
+    </LinearLayout>
+<ListView
+    android:id="@+id/sellinfo_listview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"></ListView>
+</LinearLayout>

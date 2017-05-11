@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\listview_actionbar_menu.xml",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\menu\\listview_actionbar_menu.xml"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_toolbar.xml",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\menu\\menu_main_toolbar.xml"
+    },
+    {
+        "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\listview_actionbar_menu.xml",
+        "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\menu\\listview_actionbar_menu.xml"
+    },
+    {
+        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_toolbar.xml",
+        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\menu\\menu_main_toolbar.xml"
+    }
+]

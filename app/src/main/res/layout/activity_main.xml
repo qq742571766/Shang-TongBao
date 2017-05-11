@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:toolbar="http://schemas.android.com/apk/res-auto">
+    <!--
+ ?attr/actionBarSize:表示根据屏幕的分辨率采用系统默认的高度
+ 如果低版本也要使用的话,则需要使用v7包的,否则只有api21上才能有效
+ -->
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_mainactivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:layout_below="@+id/main_toolbar"
+        android:layout_above="@+id/foot_line"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+    </android.support.v4.view.ViewPager>
+
+
+    <LinearLayout
+        android:id="@+id/foot_line"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y1"
+            android:background="@color/main_line"
+            />
+        <RadioGroup
+            android:id="@+id/main_rgTools"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:background="@color/white"
+            android:orientation="horizontal"
+           >
+
+            <RadioButton
+                android:id="@+id/rbPlanCenter"
+                android:checked="false"
+                android:drawableTop="@drawable/selector_rb_taskcenter_icon"
+                android:textColor="@drawable/selector_main_bottom_rb"
+                android:text="@string/planCenterStr"
+                style="@style/rb_style"/>
+
+            <RadioButton
+                android:id="@+id/rbTaskCenter"
+                android:checked="false"
+                android:drawableTop="@drawable/selector_rb_plancenter_icon"
+                android:textColor="@drawable/selector_main_bottom_rb"
+                android:text="@string/taskCenterStr"
+                style="@style/rb_style"/>
+            <RadioButton
+                android:id="@+id/rbSet"
+                android:checked="false"
+                android:drawableTop="@drawable/selector_rb_set_icon"
+                android:textColor="@drawable/selector_main_bottom_rb"
+                android:text="@string/set"
+                style="@style/rb_style"/>
+        </RadioGroup>
+    </LinearLayout>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/main_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/toolbar_background"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <!--添加Toolbar的子控件-->
+
+        <TextView
+            android:id="@+id/main_toobar_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center" />
+        <TextView
+            android:id="@+id/main_tb_tv_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00a0ea"
+            android:textSize="16sp"
+            android:text="抢单"
+            android:layout_gravity="end"
+            android:layout_marginRight="@dimen/x42"
+            />
+    </android.support.v7.widget.Toolbar>
+    <com.baidu.mapapi.map.TextureMapView
+        android:id="@+id/main_map"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:visibility="gone">
+
+    </com.baidu.mapapi.map.TextureMapView>
+</RelativeLayout>

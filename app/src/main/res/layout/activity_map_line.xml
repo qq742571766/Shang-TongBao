@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:toolbar="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_map_line"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zhonghong.hlbelogistics.core.home.Activitys.MapLineActivity">
+    <!--主要是这里，与使用自定义视图的方法类似 -->
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/activity_buyers_details_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/toolbar_background"
+        toolbar:title="">
+        <!--添加Toolbar的子控件-->
+        <ImageView
+            android:id="@+id/map_line_Activity_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="@dimen/x10"
+            android:paddingTop="@dimen/y10"
+            android:paddingBottom="@dimen/y10"
+            android:src="@drawable/back" />
+        <TextView
+            android:id="@+id/exception_report_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:text="轨迹界面"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </android.support.v7.widget.Toolbar>
+    <com.baidu.mapapi.map.TextureMapView
+        android:id="@+id/bmap_line_View"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/activity_buyers_details_toolbar"
+        android:clickable="true" />
+
+</RelativeLayout>

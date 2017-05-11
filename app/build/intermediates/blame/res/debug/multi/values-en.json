@@ -1,0 +1,582 @@
+[
+    {
+        "outputFile": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 211,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 211,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 166,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 166,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 52,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 52,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 54,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 54,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 87,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 87,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 83,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 83,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 52,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 35,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 35,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 37,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 37,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 39,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 39,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 37,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 37,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 39,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 39,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 50,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 50,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 36,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 36,
+                        "endOffset": 383
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 211,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 211,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 166,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 166,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 52,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 52,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 54,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 54,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 87,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 87,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 83,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.yanzhenjie\\permission\\1.0.5\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 83,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 52,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 35,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 35,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 37,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 37,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 39,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 39,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 37,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 37,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 39,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 39,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 50,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 50,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 36,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.3\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 36,
+                        "endOffset": 383
+                    }
+                }
+            }
+        ]
+    }
+]

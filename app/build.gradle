@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.3'
+    defaultConfig {
+        applicationId "com.zhonghong.hlbelogistics"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 3
+        versionName "3.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    //增加jniLibs的描述，这样APK才知道so库的路径
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+repositories{
+    flatDir{
+        dirs 'libs' //存放aar文件的路径
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.0.0'
+    compile 'com.android.support:support-v4:23.0.0'
+    compile 'com.android.support:design:23.0.0'
+    compile 'com.android.support:recyclerview-v7:23.0.0'
+    compile 'com.google.code.gson:gson:2.8.0'
+    compile 'com.zhy:okhttputils:2.6.2'
+    compile 'com.zhy:autolayout:1.4.5'
+    compile files('libs/BaiduLBS_Android.jar')
+    compile 'com.contrarywind:Android-PickerView:3.2.3'
+    compile 'com.yanzhenjie:permission:1.0.5'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zhonghong.hlbelogistics"
+    android:versionCode="3"
+    android:versionName="3.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 从SDCard读取数据权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 访问网络，网络定位需要上网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:name="com.zhonghong.hlbelogistics.base.Application.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/img"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="FotcXdWORhRNMUj0X7b1CajDSOQnwXRE" />
+        <meta-data
+            android:name="design_width"
+            android:value="1080" />
+        <meta-data
+            android:name="design_height"
+            android:value="1920" />
+
+        <activity android:name="com.zhonghong.hlbelogistics.base.activitys.BaseActivity" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.login.LoginActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.zhonghong.hlbelogistics.core.register.RegisterActivity" />
+        <activity android:name="com.zhonghong.hlbelogistics.core.home.Activitys.Bind_bank_Activity" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.Modify_password_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.Exception_report_Activity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.zhonghong.hlbelogistics.core.home.Activitys.Buyers_details_Activity" />
+        <activity android:name="com.zhonghong.hlbelogistics.core.home.Activitys.Sellers_details_Activity" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.ForgetUserNameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.BaidumapActivty"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.WaitPlanOnderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.OrderDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.IngPlanOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.GragSingleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.AccountManagementActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.MapLineActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.ModifyAccountActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" />
+
+        <activity
+            android:name="com.zhonghong.hlbelogistics.core.home.Activitys.ForgetPhoneNumActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

@@ -29,8 +29,6 @@ import java.util.List;
 
 import okhttp3.Call;
 
-import static com.zhy.http.okhttp.log.LoggerInterceptor.TAG;
-
 /**
  * 进行中计划
  * Created by Administrator on 2017/3/16.
@@ -106,20 +104,28 @@ public class IngPlanOrderAdapter extends BaseAdapter {
         viewHolder.goods_name_tv.setText(planToPlanOrder.getGoodsName());
         viewHolder.pick_place_tv.setText(INVENTORY_place);
         viewHolder.arrive_place_tv.setText(DELIVERY);
-        if (planToPlanOrder.getStatus().equals("OSAT001001")) {
-            viewHolder.status_tv.setText("待分配");
-        } else if (planToPlanOrder.getStatus().equals("OSAT001002")) {
-            viewHolder.status_tv.setText("已分配");
-        } else if (planToPlanOrder.getStatus().equals("OSAT001003")) {
-            viewHolder.status_tv.setText("出库中");
-        } else if (planToPlanOrder.getStatus().equals("OSAT001004")) {
-            viewHolder.status_tv.setText("配送中");
-        } else if (planToPlanOrder.getStatus().equals("OSAT001005")) {
-            viewHolder.status_tv.setText("已配送");
-        } else if (planToPlanOrder.getStatus().equals("OSAT001006")) {
-            viewHolder.status_tv.setText("已确认");
-        } else if (planToPlanOrder.getStatus().equals("OSAT001007")) {
-            viewHolder.status_tv.setText("问题单");
+        switch (planToPlanOrder.getStatus()) {
+            case "OSAT001001":
+                viewHolder.status_tv.setText("待分配");
+                break;
+            case "OSAT001002":
+                viewHolder.status_tv.setText("已分配");
+                break;
+            case "OSAT001003":
+                viewHolder.status_tv.setText("出库中");
+                break;
+            case "OSAT001004":
+                viewHolder.status_tv.setText("配送中");
+                break;
+            case "OSAT001005":
+                viewHolder.status_tv.setText("已配送");
+                break;
+            case "OSAT001006":
+                viewHolder.status_tv.setText("已确认");
+                break;
+            case "OSAT001007":
+                viewHolder.status_tv.setText("问题单");
+                break;
         }
         now_status = viewHolder.status_tv.getText().toString();
         switch (planToPlanOrder.getStatus()) {

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\AAwuliu\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\img.png",
-        "source": "D:\\AAwuliu\\HLBELogistics\\app\\src\\main\\res\\mipmap-xxhdpi\\img.png"
-    },
-    {
         "merged": "D:\\demo\\HLBELogistics\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\img.png",
         "source": "D:\\demo\\HLBELogistics\\app\\src\\main\\res\\mipmap-xxhdpi\\img.png"
     }
